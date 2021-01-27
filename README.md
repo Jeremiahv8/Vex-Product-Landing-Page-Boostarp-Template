@@ -1,4 +1,4 @@
-# Vex By Themefisher
+# Vex By Themefisher 2
 Vex is a clean multipurpose e-commerce theme that makes building your first online store easier than ever. It is ideal for webmasters looking to create handy and modern online shops with all the features you would expect of a competent online storefront in today’s market, and much more under the hood.
 
 <!-- demo -->
